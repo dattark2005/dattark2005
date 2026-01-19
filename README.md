@@ -1,211 +1,404 @@
 <div align="center">
 
-# 💫 DATTATRAY RAJENDRA KSHIRSAGAR
-
-### Full Stack Developer | AI Enthusiast | Problem Solver
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dattark2005.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattark2005)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattark2005)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=dattark2005&color=blueviolet&style=flat-square&label=Profile+Views)
+<!-- Animated Header with Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=300&section=header&text=DATTATRAY%20R%20KSHIRSAGAR&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Computer Science & Engineering student specializing in **AI/ML**  
-🚀 Building robust backends and practical AI systems for real-world use  
-🏆 Hackathon winner • IEEE-published researcher • Open-source enthusiast  
-💡 Turning ideas into scalable, production-ready solutions
-
----
-
-## 🛠️ Skill Matrix
-
-| Area | Hands-on Experience |
-|------|---------------------|
-| **Languages** | Python • C++ • JavaScript • TypeScript • Java • C • SQL |
-| **Backend & APIs** | Node.js • Express.js • Django • Flask • FastAPI • REST APIs • GraphQL |
-| **Frontend** | React • Next.js • React Native • TailwindCSS • HTML5 • CSS3 |
-| **AI / ML** | TensorFlow • PyTorch • scikit-learn • Pandas • NumPy • OpenCV • LangChain • Keras |
-| **Databases / Cloud** | MongoDB • PostgreSQL • MySQL • Redis • AWS EC2 • Firebase |
-| **Infra / Tools** | Docker • Git • GitHub Actions • Linux (Ubuntu Server) • Postman • Figma |
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### 🚀 *Building AI-Driven, Scalable Systems*
+
+**📍 Pune, Maharashtra, India** • **📧 dattark2005@gmail.com** • **📱 +91 7588 018**
+
+**🔗 LinkedIn:** linkedin.com/in/dattark2005 • **💻 GitHub:** github.com/dattark2005
+
+<br/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Passionate+about+AI%2FML+and+Full+Stack+Development;Building+Real-World+Solutions+with+Cutting-Edge+Tech;Hackathon+Winner+%7C+IEEE+Published+Researcher;Turning+Ideas+Into+Production-Ready+Applications" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 💫 SUMMARY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dattark2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=58a6ff&fire_color=f85149" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dattark2005&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&custom_title=Contribution%20Activity" />
+*Tech-savvy developer with proven capabilities in data structures, full-stack web development, and AI/ML.*  
+*Hands-on experience in building secure, scalable applications using React, Flask, and PyTorch-Kubernetes.*  
+*Passionate about AI/ML, research, and open-source contributions.*
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 EDUCATION
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| [**TradeHelp Platform**](https://github.com/dattark2005) | AI-powered trading platform with real-time market analytics, custom indicators, and ML-based signal generation | React • Node.js • TensorFlow • WebSocket • MongoDB • Chart.js |
-| [**Finance SMS Companion**](https://github.com/dattark2005) | Smart financial assistant with SMS parsing, expense tracking, and ML-powered insights | React Native • Flask • PostgreSQL • ML Models • NLP |
-| [**ML Trading Indicators**](https://github.com/dattark2005) | Custom technical indicators with no-repaint guarantee, backtesting engine, and strategy optimization | Python • TA-Lib • Pandas • NumPy • Matplotlib |
-| [**Smart Contract Analyzer**](https://github.com/dattark2005) | Blockchain smart contract vulnerability detection using static analysis and ML | Python • Web3.py • Solidity • Graph Neural Networks |
+<table>
+<tr>
+<td width="70%">
+
+### **B.Tech in Computer Science and Engineering (AIML)**
+**Vishwakarma Institute of Technology, Pune**  
+*CGPA: 8.78*
+
+</td>
+<td width="30%" align="right">
+
+**2022 - 2026**
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+### **Higher Secondary Certificate (HSC) - Science**
+**V. G. Vaze College, Mumbai (Maharashtra Board)**  
+*Percentage: 87%*
+
+</td>
+<td width="30%" align="right">
+
+**2020 - 2022**
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+### **Secondary School Certificate (SSC)**
+**K. J. Somaiya Vidyavihar, Ghatkopar, Mumbai**  
+*Percentage: 85.6%*
+
+</td>
+<td width="30%" align="right">
+
+**2021**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Past Projects
+## 🛠️ TECHNICAL SKILLS
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| **Portfolio Website** | Personal portfolio with dark theme, animations, and project showcase | Next.js • TailwindCSS • Framer Motion |
-| **Chat Application** | Real-time chat with end-to-end encryption and file sharing | React • Socket.io • Node.js • MongoDB |
-| **Image Recognition API** | REST API for image classification and object detection | Flask • TensorFlow • OpenCV • Docker |
-| **Task Management System** | Collaborative task manager with real-time updates | React • Express.js • PostgreSQL • Redis |
+<div align="center">
+
+### **💻 Programming Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **🎨 Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=react&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### **⚙️ Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### **🤖 AI/ML & Data Science**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### **🗄️ Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### **🔧 Tools & Frameworks**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 💡 Developer Impact Highlights
+## 💼 EXPERIENCE
 
-- 🎯 **Built AI-powered trading platform** processing real-time market data with 95%+ signal accuracy
-- 🚀 **Developed scalable backend services** handling 10,000+ concurrent WebSocket connections
-- 🤖 **Implemented ML models** for financial forecasting with 85%+ prediction accuracy
-- 📱 **Created mobile applications** with 50,000+ downloads and 4.5+ star ratings
-- 🔧 **Automated legacy code migrations** reducing technical debt by 60%
-- 🌐 **Contributed to open-source projects** with 100+ merged pull requests
-- 📊 **Optimized database queries** improving application performance by 300%
-- 🏆 **Won multiple hackathons** including Smart India Hackathon and IEEE competitions
+### 🚀 **AI InTech** - *Full Stack Developer Intern*
+**📅 June 2024 - July 2024**
 
----
+<div align="center">
 
-## 🎯 Current Focus
-
-```javascript
-const currentFocus = {
-    learning: [
-        "Advanced System Design & Architecture",
-        "Kubernetes & Cloud-Native Development",
-        "Deep Learning for Time Series Analysis",
-        "Web3 & Blockchain Technologies"
-    ],
-    building: [
-        "AI-Driven Trading Intelligence Platform",
-        "Real-time Market Data Processing Engine",
-        "Custom ML Indicators & Backtesting Framework",
-        "Scalable Microservices Architecture"
-    ],
-    exploring: [
-        "Quantitative Trading Strategies",
-        "High-Frequency Trading Systems",
-        "Distributed Systems & Event-Driven Architecture",
-        "LLM Integration for Financial Analysis"
-    ]
-};
+```yaml
+Responsibilities:
+  - Developed an unconventional stock provider that seamlessly reads glass-based AI apps
+  - Built performance and technical programs with real-time data integration
+  - Implemented scalable backend solutions with modern frameworks
+  
+Tech Stack: React, Node.js, Express.js, MongoDB, WebSocket, Chart.js
 ```
 
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Smart India Hackathon Winner** - AI/ML Category
-- 📄 **IEEE Published Researcher** - Machine Learning Applications
-- 🎓 **AWS Certified** - Cloud Practitioner
-- 🏅 **Google Cloud Certified** - Associate Cloud Engineer
-- 🌟 **Top Contributor** - Multiple Open Source Projects
-- 💻 **Competitive Programming** - 5⭐ on HackerRank (Python, SQL)
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 PROJECTS
+
+<table>
+<tr>
+<td width="100%">
+
+### 🎯 **Cryptocurrency Cloud Prices & Volume Prediction**
+**Tech Stack:** `React` `Flask` `TensorFlow` `Chart.js` `WebSocket` `MongoDB`
+
+Developed a cloud-based platform to predict cryptocurrency trends with 85%+ accuracy:
+- Built real-time data ingestion pipeline processing 10,000+ data points per second
+- Implemented LSTM and Transformer models for time-series forecasting
+- Created interactive dashboards with real-time price updates and volume analysis
+
+**🔗 [View Project](https://github.com/dattark2005)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 💰 **Personal Finance Companion**
+**Tech Stack:** `React Native` `Flask` `PostgreSQL` `NLP` `ML Models`
+
+Smart financial assistant with SMS parsing and ML-powered insights:
+- Automated expense tracking with 95% accuracy using NLP
+- Built predictive models for spending patterns and budget recommendations
+- Implemented secure authentication and end-to-end encryption
+
+**🔗 [View Project](https://github.com/dattark2005)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🤖 **AiTube Builder** - *Industry Sponsored*
+**Tech Stack:** `React` `Node.js` `OpenAI API` `Google API` `LangChain` `RAG` `Pinecone`
+
+AI-powered content creation platform with advanced RAG architecture:
+- Integrated LangChain for intelligent content generation
+- Implemented vector database (Pinecone) for semantic search
+- Built scalable microservices architecture handling 1000+ concurrent users
+
+**🔗 [View Project](https://github.com/dattark2005)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎖️ INVOLVEMENT
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=f85149&area=true&area_color=1f6feb)
+| Organization | Role | Duration |
+|--------------|------|----------|
+| 🏆 **Coordinated Installation Level Research (CIL)** | Coordinator | 2024 - Present |
+| 🎓 **Student Council VIT Pune** | Member of Maharashtra International Week | 2024 |
+| 💻 **IEEE Student Branch VIT Pune** | Member of Student Council VIT Pune | 2023 - 2024 |
+| 🤖 **Software Incubation Scholar** | Scholar | 2023 |
+| 🎯 **Coding Club VIT Pune** | Member | 2023 |
 
 </div>
 
 ---
 
-## 🌐 Tech Stack Proficiency
+## 🏅 ACHIEVEMENTS
 
 <div align="center">
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Expert-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🌟 **Highlights**
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Advanced-092E20?style=flat-square&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
+</div>
 
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-Advanced-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=flat-square&logo=pandas&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Intermediate-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+#### 🥇 **Hackathon Winner**
+- Smart India Hackathon 2024
+- Multiple university-level competitions
+
+</td>
+<td width="50%">
+
+#### 📄 **IEEE Published Researcher**
+- Published research on AI/ML applications
+- Presented at international conferences
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🎓 **Academic Excellence**
+- CGPA: 8.78/10
+- Dean's List multiple semesters
+
+</td>
+<td width="50%">
+
+#### 🌐 **Open Source Contributor**
+- 100+ contributions across repositories
+- Active in developer communities
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dattark2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dattark2005&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattark2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=dattark2005&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" />
 
 </div>
 
 ---
 
-## 📚 Latest Blog Posts
+## 🎯 CURRENT FOCUS
 
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Real-time Trading Platforms with WebSockets
-- 🤖 Machine Learning for Financial Market Prediction
-- 🔧 Optimizing React Applications for Production
-- 🐳 Containerizing Full-Stack Applications with Docker
-- 📊 Data Visualization Best Practices with Chart.js
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+```javascript
+const currentGoals2026 = {
+    learning: [
+        "Advanced System Design & Microservices Architecture",
+        "Kubernetes & Cloud-Native Development (AWS, GCP)",
+        "Deep Learning for Time Series & Financial Forecasting",
+        "Web3, Blockchain & Smart Contract Development"
+    ],
+    building: [
+        "AI-Powered Trading Intelligence Platform",
+        "Real-time Market Data Processing Engine",
+        "Scalable Full-Stack Applications with ML Integration",
+        "Open Source Tools for Developer Community"
+    ],
+    contributing: [
+        "Open Source Projects (15+ contributions planned)",
+        "Technical Blog Posts & Tutorials",
+        "Mentoring Junior Developers",
+        "Speaking at Tech Conferences & Meetups"
+    ],
+    certifications: [
+        "AWS Solutions Architect - Associate",
+        "Google Cloud Professional Developer",
+        "Kubernetes Administrator (CKA)",
+        "TensorFlow Developer Certificate"
+    ]
+};
+
+console.log("Building the future, one commit at a time! 🚀");
+```
+
+</div>
 
 ---
 
-## 💬 Let's Connect!
+## 💡 PHILOSOPHY & APPROACH
+
+<div align="center">
+
+> ### *"Building, breaking, learning, repeating."*
+
+**Curious builder turning ideas into real, working things**  
+*Crafting intuitive web experiences • Exploring AI/ML • Fixing bugs along the way*
+
+<br/>
+
+### ⚡ **Core Values**
+
+**🎯 Problem Solver** • **🚀 Fast Learner** • **💡 Creative Thinker** • **🤝 Team Player** • **📚 Lifelong Learner**
+
+</div>
+
+---
+
+## 🌟 FUN FACTS
+
+<div align="center">
+
+| 🌙 | **Night Owl** | Best code happens after midnight |
+|:---:|:---:|:---:|
+| ☕ | **Coffee Addict** | Powered by caffeine and curiosity |
+| 🎮 | **Gamer** | When not coding, I'm gaming |
+| 📚 | **Bookworm** | Always exploring new technologies |
+| 🎵 | **Music Lover** | Code better with the right playlist |
+| 🏃 | **Fitness Enthusiast** | Healthy body, healthy mind |
+
+</div>
+
+---
+
+## 📫 LET'S CONNECT
 
 <div align="center">
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-Whether you want to discuss **AI/ML**, **trading systems**, **full-stack development**, or just want to chat about **technology** - feel free to reach out!
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattark2005)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattark2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dattark2005.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 📧 **Email:** dattark2005@gmail.com
+### 💼 **LinkedIn:** linkedin.com/in/dattark2005
+### 💻 **GitHub:** github.com/dattark2005
+### 📱 **Phone:** +91 7588 018
 
-**💡 Open to:** Freelance Projects • Collaborations • Open Source Contributions • Mentorship
+<br/>
+
+**💬 Ask me about:** Full Stack Development • AI/ML • Trading Systems • Open Source • React • Python
+
+**💡 Open to:** Freelance Projects • Collaborations • Internships • Open Source Contributions • Mentorship
 
 </div>
 
@@ -213,32 +406,18 @@ Whether you want to discuss **AI/ML**, **trading systems**, **full-stack develop
 
 <div align="center">
 
-### ⚡ Fun Facts
-
-🌙 Night owl - Best code happens after midnight  
-☕ Powered by coffee and curiosity  
-🎮 Gamer when not coding  
-📚 Lifelong learner exploring new technologies  
-🎵 Music lover - Code better with the right playlist  
-🏃 Fitness enthusiast - Healthy body, healthy mind  
-
----
-
-### 🎯 Philosophy
-
-> *"Building, breaking, learning, repeating."*
-
-**Curious builder turning ideas into real, working things**  
-Crafting intuitive experiences • Exploring AI • Fixing bugs along the way
-
----
-
 ### ✨ *Still exploring, still building — and always learning.*
 
-**Let's turn cool ideas into even cooler code!** 🚀
+**Let's connect and turn cool ideas into even cooler code!** 🚀
 
----
+<br/>
 
-<sub>⭐️ From [dattark2005](https://github.com/dattark2005) with 💙</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=dattark2005&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7&height=150&section=footer" width="100%"/>
+
+<sub>⭐️ From [dattark2005](https://github.com/dattark2005) with 💙 • Last Updated: January 2026</sub>
 
 </div>
