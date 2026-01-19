@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**dattark2005/dattark2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello folks!👋
 
-Here are some ideas to get you started:
+Building, breaking, learning, repeating.
+Curious builder turning ideas into real, working things — crafting intuitive web experiences, exploring AI, and fixing bugs along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 My Tech Stack
+
+```json
+{
+  "languages": ["C", "C++", "Python", "Java", "HTML", "CSS", "Javascript", "SQL"],
+  "frameworks/libraries": {
+    "backend": ["Django", "Flask", "Express.js", "Node.js"],
+    "frontend": ["React", "React Native", "Next.js", "Tailwind CSS"],
+    "others": ["Tensorflow", "sklearn", "chart.js", "GraphQL"]
+  },
+  "database": ["MongoDB", "MySQL", "PostgreSQL"],
+  "misc": ["Git", "ML", "GenAI", "LLMs", "Docker"],
+  "tools": ["Visual Studio Code", "Figma"]
+}
+```
+
+---
+
+✨ Still exploring, still building — and always learning.
+
+Let’s connect and turn cool ideas into even cooler code!
