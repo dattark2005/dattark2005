@@ -36,55 +36,6 @@
 
 ---
 
-## 🎓 EDUCATION
-
-<table>
-<tr>
-<td width="70%">
-
-### **B.Tech in Computer Science and Engineering (AIML)**
-**Vishwakarma Institute of Technology, Pune**  
-*CGPA: 8.78*
-
-</td>
-<td width="30%" align="right">
-
-**2022 - 2026**
-
-</td>
-</tr>
-<tr>
-<td width="70%">
-
-### **Higher Secondary Certificate (HSC) - Science**
-**V. G. Vaze College, Mumbai (Maharashtra Board)**  
-*Percentage: 87%*
-
-</td>
-<td width="30%" align="right">
-
-**2020 - 2022**
-
-</td>
-</tr>
-<tr>
-<td width="70%">
-
-### **Secondary School Certificate (SSC)**
-**K. J. Somaiya Vidyavihar, Ghatkopar, Mumbai**  
-*Percentage: 85.6%*
-
-</td>
-<td width="30%" align="right">
-
-**2021**
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ TECHNICAL SKILLS
 
 <div align="center">
