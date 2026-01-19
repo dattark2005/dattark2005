@@ -158,91 +158,24 @@
 
 ---
 
-## 💼 EXPERIENCE
+##  Featured Projects
 
-### 🚀 **AI InTech** - *Full Stack Developer Intern*
-**📅 June 2024 - July 2024**
-
-<div align="center">
-
-```yaml
-Responsibilities:
-  - Developed an unconventional stock provider that seamlessly reads glass-based AI apps
-  - Built performance and technical programs with real-time data integration
-  - Implemented scalable backend solutions with modern frameworks
-  
-Tech Stack: React, Node.js, Express.js, MongoDB, WebSocket, Chart.js
-```
-
-</div>
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**Cryptocurrency Cloud Prices & Volume Prediction**](https://github.com/dattark2005) | Cloud-based platform to predict cryptocurrency trends with 85%+ accuracy using LSTM and Transformer models for time-series forecasting | React • Flask • TensorFlow • Chart.js • WebSocket • MongoDB |
+| [**Personal Finance Companion**](https://github.com/dattark2005) | Smart financial assistant with SMS parsing and ML-powered insights, automated expense tracking with 95% accuracy using NLP | React Native • Flask • PostgreSQL • NLP • ML Models |
+| [**AiTube Builder**](https://github.com/dattark2005) | Industry-sponsored AI-powered content creation platform with advanced RAG architecture, integrated LangChain for intelligent content generation | React • Node.js • OpenAI API • Google API • LangChain • RAG • Pinecone |
 
 ---
 
-## 🏆 PROJECTS
+## 📂 Past Projects
 
-<table>
-<tr>
-<td width="100%">
-
-### 🎯 **Cryptocurrency Cloud Prices & Volume Prediction**
-**Tech Stack:** `React` `Flask` `TensorFlow` `Chart.js` `WebSocket` `MongoDB`
-
-Developed a cloud-based platform to predict cryptocurrency trends with 85%+ accuracy:
-- Built real-time data ingestion pipeline processing 10,000+ data points per second
-- Implemented LSTM and Transformer models for time-series forecasting
-- Created interactive dashboards with real-time price updates and volume analysis
-
-**🔗 [View Project](https://github.com/dattark2005)**
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 💰 **Personal Finance Companion**
-**Tech Stack:** `React Native` `Flask` `PostgreSQL` `NLP` `ML Models`
-
-Smart financial assistant with SMS parsing and ML-powered insights:
-- Automated expense tracking with 95% accuracy using NLP
-- Built predictive models for spending patterns and budget recommendations
-- Implemented secure authentication and end-to-end encryption
-
-**🔗 [View Project](https://github.com/dattark2005)**
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### 🤖 **AiTube Builder** - *Industry Sponsored*
-**Tech Stack:** `React` `Node.js` `OpenAI API` `Google API` `LangChain` `RAG` `Pinecone`
-
-AI-powered content creation platform with advanced RAG architecture:
-- Integrated LangChain for intelligent content generation
-- Implemented vector database (Pinecone) for semantic search
-- Built scalable microservices architecture handling 1000+ concurrent users
-
-**🔗 [View Project](https://github.com/dattark2005)**
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎖️ INVOLVEMENT
-
-<div align="center">
-
-| Organization | Role | Duration |
-|--------------|------|----------|
-| 🏆 **Coordinated Installation Level Research (CIL)** | Coordinator | 2024 - Present |
-| 🎓 **Student Council VIT Pune** | Member of Maharashtra International Week | 2024 |
-| 💻 **IEEE Student Branch VIT Pune** | Member of Student Council VIT Pune | 2023 - 2024 |
-| 🤖 **Software Incubation Scholar** | Scholar | 2023 |
-| 🎯 **Coding Club VIT Pune** | Member | 2023 |
-
-</div>
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **Trading Intelligence Platform** | Real-time market data processing with custom ML indicators and backtesting framework | Python • TA-Lib • Pandas • NumPy • WebSocket |
+| **Portfolio Website** | Personal portfolio with dark theme, animations, and project showcase | Next.js • TailwindCSS • Framer Motion |
+| **Chat Application** | Real-time chat with end-to-end encryption and file sharing capabilities | React • Socket.io • Node.js • MongoDB |
+| **Image Recognition API** | REST API for image classification and object detection with Docker deployment | Flask • TensorFlow • OpenCV • Docker |
 
 ---
 
@@ -302,80 +235,6 @@ AI-powered content creation platform with advanced RAG architecture:
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattark2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" />
 <img width="49%" src="https://github-profile-trophy.vercel.app/?username=dattark2005&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" />
-
-</div>
-
----
-
-## 🎯 CURRENT FOCUS
-
-<div align="center">
-
-```javascript
-const currentGoals2026 = {
-    learning: [
-        "Advanced System Design & Microservices Architecture",
-        "Kubernetes & Cloud-Native Development (AWS, GCP)",
-        "Deep Learning for Time Series & Financial Forecasting",
-        "Web3, Blockchain & Smart Contract Development"
-    ],
-    building: [
-        "AI-Powered Trading Intelligence Platform",
-        "Real-time Market Data Processing Engine",
-        "Scalable Full-Stack Applications with ML Integration",
-        "Open Source Tools for Developer Community"
-    ],
-    contributing: [
-        "Open Source Projects (15+ contributions planned)",
-        "Technical Blog Posts & Tutorials",
-        "Mentoring Junior Developers",
-        "Speaking at Tech Conferences & Meetups"
-    ],
-    certifications: [
-        "AWS Solutions Architect - Associate",
-        "Google Cloud Professional Developer",
-        "Kubernetes Administrator (CKA)",
-        "TensorFlow Developer Certificate"
-    ]
-};
-
-console.log("Building the future, one commit at a time! 🚀");
-```
-
-</div>
-
----
-
-## 💡 PHILOSOPHY & APPROACH
-
-<div align="center">
-
-> ### *"Building, breaking, learning, repeating."*
-
-**Curious builder turning ideas into real, working things**  
-*Crafting intuitive web experiences • Exploring AI/ML • Fixing bugs along the way*
-
-<br/>
-
-### ⚡ **Core Values**
-
-**🎯 Problem Solver** • **🚀 Fast Learner** • **💡 Creative Thinker** • **🤝 Team Player** • **📚 Lifelong Learner**
-
-</div>
-
----
-
-## 🌟 FUN FACTS
-
-<div align="center">
-
-| 🌙 | **Night Owl** | Best code happens after midnight |
-|:---:|:---:|:---:|
-| ☕ | **Coffee Addict** | Powered by caffeine and curiosity |
-| 🎮 | **Gamer** | When not coding, I'm gaming |
-| 📚 | **Bookworm** | Always exploring new technologies |
-| 🎵 | **Music Lover** | Code better with the right playlist |
-| 🏃 | **Fitness Enthusiast** | Healthy body, healthy mind |
 
 </div>
 
