@@ -9,7 +9,9 @@
 
 ### 🚀 *Building AI-Driven, Scalable Systems*
 
-**📍 Pune, Maharashtra, India** • **📧 dattark2005@gmail.com** • **📱 +91 8975395109**
+**🎓 CGPA: 9.25/10** • **📍 Pune, Maharashtra, India**
+
+**📧 dattark2005@gmail.com** • **📱 +91 8975395109**
 
 **🔗 LinkedIn:** linkedin.com/in/dattatray-kshirsagar-3240972bb • **💻 GitHub:** github.com/dattark2005
 
@@ -109,7 +111,7 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
@@ -127,67 +129,6 @@
 | **Portfolio Website** | Personal portfolio with dark theme, animations, and project showcase | Next.js • TailwindCSS • Framer Motion |
 | **Chat Application** | Real-time chat with end-to-end encryption and file sharing capabilities | React • Socket.io • Node.js • MongoDB |
 | **Image Recognition API** | REST API for image classification and object detection with Docker deployment | Flask • TensorFlow • OpenCV • Docker |
-
----
-
-## 🏅 ACHIEVEMENTS
-
-<div align="center">
-
-### 🌟 **Highlights**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🥇 **Hackathon Winner**
-- Smart India Hackathon 2024
-- Multiple university-level competitions
-
-</td>
-<td width="50%">
-
-#### 📄 **IEEE Published Researcher**
-- Published research on AI/ML applications
-- Presented at international conferences
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 🎓 **Academic Excellence**
-- CGPA: 8.78/10
-- Dean's List multiple semesters
-
-</td>
-<td width="50%">
-
-#### 🌐 **Open Source Contributor**
-- 100+ contributions across repositories
-- Active in developer communities
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dattark2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dattark2005&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattark2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=10" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=dattark2005&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&title=Commits,Repositories,Stars,Followers" />
-
-</div>
 
 ---
 
