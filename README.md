@@ -1,184 +1,217 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=DATTA%20R%20KALE&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Building%20AI-Driven,%20Scalable%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<!-- Elegant Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Dattatray%20Rajendra%20Kshirsagar&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=58&descSize=16" width="100%"/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A7%A0;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" /></a>
+<br/>
+
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=60&lines=Building+AI-Driven+Trading+Platforms+%F0%9F%93%88;Creating+Scalable+Full+Stack+Solutions+%F0%9F%9A%80;Exploring+Machine+Learning+%26+Deep+Learning+%F0%9F%A7%A0;Turning+Ideas+Into+Reality+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattark2005)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/dattark2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://dattark2005.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<img src="https://komarev.com/ghpvc/?username=dattark2005&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
-  
-### 👨‍💻 **About Me**
+## 👨‍💻 About Me
 
-```typescript
-const datta = {
-    pronouns: "He" | "Him",
+```javascript
+const dattatray = {
+    fullName: "Dattatray Rajendra Kshirsagar",
     location: "India 🇮🇳",
-    currentFocus: "Building AI-powered trading platforms & scalable systems",
-    learning: ["Advanced ML", "System Design", "Cloud Architecture"],
-    askMeAbout: ["Web Dev", "AI/ML", "Trading Systems", "Open Source"],
-    funFact: "I debug with console.log() and I'm not ashamed! 😎"
+    role: "Full Stack Developer & AI Enthusiast",
+    currentFocus: [
+        "Building AI-powered trading platforms",
+        "Developing scalable full-stack applications",
+        "Exploring ML/DL for real-world solutions"
+    ],
+    philosophy: "Building, breaking, learning, repeating.",
+    workingOn: {
+        primary: "TradeHelp - AI Trading Platform",
+        secondary: "Finance SMS Companion",
+        learning: ["System Design", "Cloud Architecture", "Advanced ML"]
+    },
+    askMeAbout: ["React", "Node.js", "Python", "AI/ML", "Trading Systems"],
+    funFact: "I turn coffee into code and bugs into features! ☕️"
 };
 ```
 
-</div>
+<br/>
 
----
+## 🛠️ Technology Stack
 
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-### **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&perline=4" />
+
+**Languages & Frameworks**  
+`HTML5` `CSS3` `JavaScript` `TypeScript`  
+`React` `Next.js` `React Native` `TailwindCSS`
+
+</td>
+<td align="center" width="50%">
 
 ### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,graphql,java,cpp&perline=4" />
+
+**Languages & Frameworks**  
+`Node.js` `Express.js` `Python` `Django`  
+`Flask` `GraphQL` `Java` `C/C++`
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python,sklearn&perline=4" />
 
-### **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Frameworks & Libraries**  
+`TensorFlow` `PyTorch` `scikit-learn`  
+`Pandas` `NumPy` `Keras`
 
-</div>
+</td>
+<td align="center" width="50%">
 
----
+### **Databases & DevOps**
 
-## 📊 **GitHub Analytics**
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,docker,git,github,linux&perline=4" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dattark2005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattark2005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-</div>
+**Tools & Technologies**  
+`MongoDB` `PostgreSQL` `MySQL` `Redis`  
+`Docker` `Git` `GitHub Actions` `Linux`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattark2005&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats"/>
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dattark2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&ring_color=667eea" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dattark2005&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattark2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea" />
+
 </div>
+
+<br/>
+
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dattark2005&theme=radical&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7&row=1&bg_color=0D1117&title_color=667eea&text_color=c9d1d9&icon_color=f093fb" />
+
 </div>
 
----
+<br/>
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dattark2005&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/dattark2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dattark2005&repo=TradeHelp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dattark2005&repo=TradeHelp&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/dattark2005">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dattark2005&repo=Personal-Finance-Assistance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=dattark2005&repo=Personal-Finance-Assistance&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9" />
 </a>
 
 </div>
 
----
+<br/>
 
-## 💼 **What I'm Working On**
+## 💼 Current Focus
 
-```python
-class CurrentProjects:
-    def __init__(self):
-        self.projects = {
-            "🎯 TradeHelp": "AI-powered trading platform with real-time analytics",
-            "💰 Finance SMS Companion": "Smart financial assistant with ML insights",
-            "🤖 ML Trading Indicators": "Custom indicators with no-repaint guarantee",
-            "🌐 Open Source": "Contributing to the developer community"
-        }
-    
-    def get_status(self):
-        return "Building the future, one commit at a time! 🚀"
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎯 **TradeHelp** | AI-powered trading platform with real-time analytics | React, Node.js, TensorFlow, WebSocket |
+| 💰 **Finance SMS Companion** | Smart financial assistant with ML insights | React Native, Flask, ML Models |
+| 🤖 **ML Trading Indicators** | Custom indicators with no-repaint guarantee | Python, TA-Lib, Pandas |
+| 🌐 **Open Source** | Contributing to developer community | Various Technologies |
+
+</div>
+
+<br/>
+
+## 🎯 Goals for 2026
+
+<div align="center">
+
+```yaml
+Professional Development:
+  - Master System Design & Cloud Architecture
+  - Build 5+ Production-Ready AI/ML Applications
+  - Contribute to 15+ Open Source Projects
+  
+Community Engagement:
+  - Write Technical Blogs & Tutorials
+  - Mentor Aspiring Developers
+  - Speak at Tech Conferences
+  
+Personal Growth:
+  - Learn Advanced DevOps & Kubernetes
+  - Explore Web3 & Blockchain
+  - Build a Strong Developer Network
 ```
 
----
+</div>
 
-## 🎯 **2026 Goals**
+<br/>
+
+## 💡 Philosophy & Approach
 
 <div align="center">
 
-✅ Master System Design & Cloud Architecture  
-✅ Contribute to 10+ Open Source Projects  
-✅ Build Production-Ready AI/ML Applications  
-✅ Share Knowledge Through Technical Blogs  
-✅ Connect with Amazing Developers Worldwide  
+> ### *"Building, breaking, learning, repeating."*
+> 
+> **Curious builder turning ideas into real, working things**  
+> Crafting intuitive web experiences • Exploring AI • Fixing bugs along the way
+
+<br/>
+
+**🎯 Problem Solver** • **🚀 Fast Learner** • **💡 Creative Thinker** • **🤝 Team Player**
 
 </div>
 
----
+<br/>
 
-## 📫 **Let's Connect!**
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattark2005)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattark2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dattark2005.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dattark2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=667eea&line=f093fb&point=ffffff&area=true&custom_title=Contribution%20Activity" width="100%" />
 
 </div>
 
----
+<br/>
 
-## 💡 **Random Dev Quote**
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -186,34 +219,60 @@ class CurrentProjects:
 
 </div>
 
+<br/>
+
+## 💭 Random Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**I'm always open to interesting conversations and collaboration opportunities!**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dattark2005)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dattark2005)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dattark2005.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
+
+<br/>
+
+**💬 Ask me about:** Web Development • AI/ML • Trading Systems • Open Source
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
 
-### 💭 **Philosophy**
+### ⚡ Fun Facts About Me
 
-*"Building, breaking, learning, repeating."*
+🌙 **Night Owl** - Best code happens after midnight  
+☕ **Coffee Addict** - Powered by caffeine and curiosity  
+🎮 **Gamer** - When not coding, I'm gaming  
+📚 **Lifelong Learner** - Always exploring new technologies  
+🎵 **Music Lover** - Code better with the right playlist  
 
-**Curious builder turning ideas into real, working things**  
-Crafting intuitive experiences • Exploring AI • Fixing bugs along the way
+<br/>
 
----
-
-### ⚡ **Fun Facts**
-
-🎮 When not coding, I'm probably gaming or exploring new tech  
-☕ Coffee-driven development is my superpower  
-🌙 Night owl who codes best after midnight  
-📚 Always learning, always growing  
-
----
-
-<img src="https://komarev.com/ghpvc/?username=dattark2005&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-### ✨ **Still exploring, still building — and always learning.**
+### ✨ *Still exploring, still building — and always learning.*
 
 **Let's connect and turn cool ideas into even cooler code!** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer" width="100%"/>
 
 </div>
