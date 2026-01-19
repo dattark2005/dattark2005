@@ -9,9 +9,9 @@
 
 ### 🚀 *Building AI-Driven, Scalable Systems*
 
-**📍 Pune, Maharashtra, India** • **📧 dattark2005@gmail.com** • **📱 +91 7588 018**
+**📍 Pune, Maharashtra, India** • **📧 dattark2005@gmail.com** • **📱 +91 8975395109**
 
-**🔗 LinkedIn:** linkedin.com/in/dattark2005 • **💻 GitHub:** github.com/dattark2005
+**🔗 LinkedIn:** linkedin.com/in/dattatray-kshirsagar-3240972bb • **💻 GitHub:** github.com/dattark2005
 
 <br/>
 
@@ -390,9 +390,9 @@ console.log("Building the future, one commit at a time! 🚀");
 <br/>
 
 ### 📧 **Email:** dattark2005@gmail.com
-### 💼 **LinkedIn:** linkedin.com/in/dattark2005
+### 💼 **LinkedIn:** linkedin.com/in/dattatray-kshirsagar-3240972bb
 ### 💻 **GitHub:** github.com/dattark2005
-### 📱 **Phone:** +91 7588 018
+### 📱 **Phone:** +91 8975395109
 
 <br/>
 
