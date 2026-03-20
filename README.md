@@ -11,7 +11,7 @@
 
 **🎓 CGPA: 9.25/10** • **📍 Pune, Maharashtra, India**
 
-**📧 dattark2005@gmail.com** • **📱 +91 8975395109**
+**📧 dattatraykshirsagar2005@gmail.com** • **📱 +91 8975395109**
 
 **🔗 LinkedIn:** linkedin.com/in/dattatray-kshirsagar-3240972bb • **💻 GitHub:** github.com/dattark2005
 
