@@ -127,7 +127,7 @@
 
 <br/>
 
-### 📧 **Email:** dattark2005@gmail.com
+### 📧 **Email:** dattatraykshirsagar2005@gmail.com
 ### 💼 **LinkedIn:** linkedin.com/in/dattatray-kshirsagar-3240972bb
 ### 💻 **GitHub:** github.com/dattark2005
 ### 📱 **Phone:** +91 8975395109
