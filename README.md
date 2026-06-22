@@ -9,7 +9,7 @@
 
 ### 🚀 *Building AI-Driven, Scalable Systems*
 
-**🎓 CGPA: 9.25/10** • **📍 Pune, Maharashtra, India**
+**🎓 CGPA: 9.33/10** • **📍 Pune, Maharashtra, India**
 
 **📧 dattatraykshirsagar2005@gmail.com** • **📱 +91 8975395109**
 
